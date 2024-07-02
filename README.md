@@ -88,4 +88,8 @@ An artificial dataset of the transaction log of a portfolio with 10 major stock 
 - The custom generated data was exported to MySQL from Python using the SQLConnect. This enables addition of new data into the database without affecting the previous entries
 - The MySQL session was connected to MS Excel using Oracle's Open DataBase Connectivity(ODBC) integrators. This enabled auto-updation of the portfolio with new transactions without affeecting the DAX in MS Excel.
 
+### Dashboards
 
+![](portfolio_dashboard/dashboard_images/portfolio_dashboard.png)
+
+![](portfolio_dashboard/dashboard_images/dynamic_dashboard.png)
