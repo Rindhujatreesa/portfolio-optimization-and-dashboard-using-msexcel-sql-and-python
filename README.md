@@ -4,7 +4,7 @@ taken over the simple analysis with programming languages like Python, I wanted 
 
 ## Objective
 
-1. Optimize a Portfolio of five standard stock tickers - SPY, BND,	GLD,	QQQ, and VTI using - 
+1. Optimize a Portfolio of five standard stock tickers - SPY,BND,GLD,QQQ, and VTI using - 
 
   - Python
   - MS Excel
