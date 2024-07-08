@@ -27,7 +27,7 @@ taken over the simple analysis with programming languages like Python, I wanted 
 ### Data
 
 The data for portfolio optimization is extracted using the Yahoo Financial Python API. In this project, I considered the stock Adjusted Close Prices of five major indicators - 
-`SPY,BND,GLD,QQQ, and VTI` for over 10 years till date. The same data set is used for optimization in Python and MS Excel. However, I implemented an extra constraint in MS Excel 
+`SPY,BND,GLD,QQQ, and VTI` for over 10 years till date. The same data set is used for optimization in Python and MS Excel. However, I implemented an extra constraint
 which allowed me to assign a few stock to all the tickers without leaving out any.
 
 ### With Python
